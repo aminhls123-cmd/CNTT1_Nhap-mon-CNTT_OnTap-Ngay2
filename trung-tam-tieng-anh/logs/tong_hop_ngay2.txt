@@ -1,0 +1,16 @@
+=== TONG HOP ACCESS LOG ===
+
+logs\access.log:4:2025-10-18 08:17:59 [ERROR] Khong tim thay trang /lich-thi (404)
+logs\access.log:6:2025-10-18 08:25:55 [ERROR] Het thoi gian cho (timeout)
+logs\access.log:8:2025-10-18 08:33:51 [ERROR] Ket noi may chu du lieu that bai
+logs\access.log:9:2025-10-18 08:37:19 [ERROR] Ket noi may chu du lieu that bai
+logs\access.log:12:2025-10-18 08:49:43 [ERROR] Het thoi gian cho (timeout)
+logs\access.log:13:2025-10-18 08:53:11 [ERROR] Het thoi gian cho (timeout)
+
+
+logs\payment.log:4:2025-10-18 09:19:13 [WARNING] Cong thanh toan phan hoi cham
+logs\payment.log:7:2025-10-18 09:28:16 [WARNING] Nhieu lan nhap sai ma OTP
+logs\payment.log:12:2025-10-18 09:43:01 [WARNING] So du vi gan bang hoc phi
+logs\payment.log:13:2025-10-18 09:46:22 [WARNING] So du vi gan bang hoc phi
+logs\payment.log:14:2025-10-18 09:49:43 [WARNING] So du vi gan bang hoc phi
+
